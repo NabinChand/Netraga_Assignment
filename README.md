@@ -1,6 +1,6 @@
 # Netraga_Assignment
 
-Hosted Link:   [Image Gallery](nabinimagegallery.epizy.com)
+Hosted Link:   [Image Gallery](http://www.nabinimagegallery.epizy.com)
 
 
 The Assignment demands to be made using ReactJS, ExpressJS, MongoDB, NodeJS tech stack but I am not familier with any of these.
